@@ -1,1 +1,1 @@
-Gogoanime python web scrapper Pypi version and documentaion will be out soon
+scrapes information from gogoanime and displays it in accordance with the data it has collected.
